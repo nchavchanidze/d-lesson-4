@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,500;0,700;0,900;1,300&display=swap');
+
+@font-face {
+    font-family: 'BPG Arial';
+    src: url('./fonts/Arial/BPGArial.eot');
+    src: url('./fonts/Arial/BPGArial.eot?#iefix') format('embedded-opentype'),
+        url('./fonts/Arial/BPGArial.woff2') format('woff2'),
+        url('./fonts/Arial/BPGArial.woff') format('woff'),
+        url('./fonts/Arial/BPGArial.ttf') format('truetype'),
+        url('./fonts/Arial/BPGArial.svg#BPGArial') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
